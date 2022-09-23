@@ -13,5 +13,7 @@ namespace WpfUserControlExample
     /// </summary>
     public partial class App : Application
     {
+        Console.WriteLine("bye bye");
     }
+
 }
